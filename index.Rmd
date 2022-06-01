@@ -130,7 +130,7 @@ Analizamos estos mercados y el comportamiento de las empresas en base a dos supu
 
 La curva de demanda que enfrentan los productores en compentencia perfecta es horizontal.
 
-![](imgs/demanda_individual_mercado.png)
+![](imgs/competencia.png)
 
 ---
 # Motivación de los empresarios
@@ -151,7 +151,7 @@ La curva de demanda que enfrentan los productores en compentencia perfecta es ho
 $$B(Q)=PQ-C(Q)$$
 
 ---
-# Maximiazación de Beneficios (2)
+# Maximización de Beneficios (2)
 
 - El empresario elige $Q$ para maximizar beneficios.
 
@@ -162,26 +162,42 @@ $$B(Q)=PQ-C(Q)$$
 $$ P = Cmg(Q)$$
 ---
 
-# La curva de oferta.
 
+.pull-left[
+### La curva de oferta.
 - Para cada precio, el empresario elige la cantidad a producir que hace que su costo marginal sea igual a ese precio.
 
+]
+
+.pull-right[
+![](imgs/costo_marginal_ingreso_marginal.png)
+
+]
+
+---
+## Tres resultados posibles
+
+![](imgs/tres_resultados.png)
+
+
 
 
 ---
 
-# Ejemplo 
+# Entrada y salida de empresas
 
-![](imgs/tabla_oferta.png)
-
-
-
-
+- Si el precio de equilibrio está por abajo de los costos medios de las empresas, las empresas tienen pérdidas, y salen del mercado.
+- Esto hace que la oferta disminuya y el precio suba.
+- Si el precio de equilibrio está por arriba de los costos medios de las empresas, pasa lo contrario, y entran empresas al mercado.
 
 ---
-# Oferta y Costo marginal
 
-![](imgs/oferta_costo_marginal.png)
+![](imgs/exit_cibercafes.png)
+
+![](imgs/exit_metal.png)
+
+---
+![](imgs/enter_verdulerias.png)
 
 ---
 # Punto de cierre
@@ -197,11 +213,8 @@ $$ P = Cmg(Q)$$
 ]
 
 
-
-
 ---
-
-# Equilibrio de corto y largo plazo (1)
+# Equilibrio de corto y largo plazo
 
 
 - Si hay un aumento en la demanda, los productores van a tener un incentivo a producir más para beneficiarse del aumento de precios.
@@ -210,37 +223,6 @@ $$ P = Cmg(Q)$$
 
 - En el largo plazo, pueden invertir y contratar una mayor cantidad de factores fijos de producción (capital).
 
-- Esto implica que en el largo plazo la cantidad producida aumenta más, por lo que la elasticidad precio de la oferta en el largo plazo es __mayor__.
-
-
----
-# Equilibrio de corto y largo plazo (2)
-
-![](imgs/corto_largo_plazo.png)
-
-
-
----
-# Entrada y salida de empresas
-
-- Si el precio de equilibrio está por abajo de los costos medios de las empresas, las empresas tienen pérdidas, y salen del mercado.
-- Esto hace que la oferta disminuya y el precio suba.
-- Si el precio de equilibrio está por arriba de los costos medios de las empresas, pasa lo contrario, y entran empresas al mercado.
-
-
----
-# Eficiencia
-
-- Eficiencia Paretiana.
-- Un equilibrio es eficiente si no se puede mejorar la utilidad de ninguno de los agentes sin empeorar a otro.
-
----
-# Mercados Competitivos y Eficiencia
-
-- La demanda viene dada por la Utilidad Marginal
-- La demanda viene dada por el Costo Marginal
-
-![](imgs/excedente.png)
 
 ---
 
